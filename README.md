@@ -20,7 +20,7 @@ From project root:
 Any and all feedback / bugs reports are welcome
 
 ## App Layout
-[App Layout](https://imgur.com/a/TL9D2nG)
+[App Layout](https://i.imgur.com/YSQ1Gzj.png)
 
 ## Recommended Exentions
 
