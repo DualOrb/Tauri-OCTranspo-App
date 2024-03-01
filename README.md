@@ -13,7 +13,10 @@ Tested for building on windows 10 machines.
 
 From project root:
 1. ```npm install```
-2. ```npm run tauri build```
+2. Input the App ID and APIKey obtained from the octranspo api key into ```/src-tauri/src/resources/octranspo.conf```
+3. ```npm run tauri build```
+
+This will build execcutables for your system type in targets/releases
 
 ## Pull Requests
 
